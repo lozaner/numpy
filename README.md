@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/tagged/numpy)
 https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
 
-
+¡Estoy feliz de hacer mi primera edición!
 NumPy is the fundamental package for scientific computing with Python.
 
 - **Website:** https://www.numpy.org
@@ -83,3 +83,5 @@ mailing list. You are very welcome to join.
 If you are new to contributing to open source, [this
 guide](https://opensource.guide/how-to-contribute/) helps explain why, what,
 and how to successfully get involved.
+
+¡Estoy feliz de hacer mi primera edición!
